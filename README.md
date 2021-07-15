@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulSalaam-2
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with anyone.
 - 📫 How to reach me  mohammedabdulsalaam0@gmail.com
 
 <!---
